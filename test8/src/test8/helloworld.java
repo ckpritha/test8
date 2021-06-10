@@ -6,6 +6,7 @@ public class helloworld {
 		// TODO Auto-generated method stub
       System.out.println("Hello world");
       System.out.println("success");
+      System.out.println("welcome to jenkins server configuration");
 	}
 
 }
