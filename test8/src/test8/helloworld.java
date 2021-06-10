@@ -7,6 +7,7 @@ public class helloworld {
       System.out.println("Hello world");
       System.out.println("success");
       System.out.println("welcome to jenkins server configuration");
+      System.out.println("by Pritha");
 	}
 
 }
