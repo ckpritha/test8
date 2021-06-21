@@ -8,6 +8,7 @@ public class helloworld {
       System.out.println("success");
       System.out.println("welcome to jenkins server configuration");
       System.out.println("by Pritha");
+      System.out.println("testing");
       
       //again checking jenkins build
 	}
